@@ -1,0 +1,13 @@
+
+> 3dfolio@0.0.0 dev
+> vite --host 0.0.0.0 --port 4173
+
+
+  [32m[1mVITE[22m v4.5.14[39m  [2mready in [0m[1m1630[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.20.10.2:[1m4173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.20.10.8:[1m4173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.27.208.1:[1m4173[22m/[39m
+[2m11:55:11 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Works.jsx, /src/index.css[22m
+[2m12:03:51 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/Feedbacks.jsx, /src/components/Navbar.jsx, /src/components/Tech.jsx, /src/components/Works.jsx, /src/components/Experience.jsx, /src/components/About.jsx[22m
